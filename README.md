@@ -14,7 +14,6 @@ I build data-driven dashboards and analytics projects focused on **sales, retail
 - Power BI Business Intelligence Dashboard
 
 📌 Open to Data Analyst / Reporting Analyst / MIS roles
-
 🔗 LinkedIn: https://www.linkedin.com/in/divyy-pratap
 
 
