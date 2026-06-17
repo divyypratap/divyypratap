@@ -1,22 +1,26 @@
 # Hi, I'm Divyy Pratap 👋
 
-Entry-level Data Analyst with hands-on experience in **Excel, SQL, and Power BI**.
-I build data-driven dashboards and analytics projects focused on **sales, retail, and business performance**.
+**Aspiring Data Analyst** | Python • SQL • Power BI • Excel
 
-## 🔧 Skills
-- Excel (Pivot Tables, Dashboards, Data Cleaning)
-- SQL (Joins, Aggregations, Business Queries)
-- Power BI (Data Modeling, DAX Basics, Visualization)
+Open to **Entry-level Data Analyst / MIS / Business Intelligence** roles.
 
-## 📊 Projects
-- Retail SQL Analytics Project
-- Sales Performance Dashboard (Excel)
-- Power BI Business Intelligence Dashboard
+### 🛠️ Skills
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **SQL** (Joins, Window Functions, Aggregations)
+- **Power BI** (DAX, Power Query, Interactive Dashboards)
+- **Excel** (Pivot Tables, Charts, MIS Reporting)
 
-📌 Open to Data Analyst / Reporting Analyst / MIS roles
-🔗 LinkedIn: https://www.linkedin.com/in/divyy-pratap
+### 📊 Featured Projects
 
+- **[Bank Marketing Campaign Analysis](https://github.com/divyypratap/bank-marketing-campaign-insights)** → Python EDA + Insights on 41k+ records
+- **[Retail SQL Analytics](https://github.com/divyypratap/retail-sql-analytics-project)** → SQL + Power BI Dashboard
+- **[Retail Power BI Dashboard](https://github.com/divyypratap/retail-analytics-powerbi)**
 
+🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/divyy-pratap/)
+
+---
+
+*Currently building strong foundation in Data Analytics through internship projects.*
 <!--
 **divyypratap/divyypratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
