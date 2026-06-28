@@ -1,36 +1,46 @@
 # Hi, I'm Divyy Pratap 👋
 
-**Data Analyst** | Passionate about turning data into meaningful insights
+**Data Analyst** | Transforming complex data into strategic business insights
 
-I’m a curious and detail-oriented Data Analyst who loves exploring datasets, uncovering hidden patterns, and building models that help solve real business problems. With hands-on experience in Python, SQL, and Power BI, I enjoy transforming raw data into clear, actionable stories that drive better decisions.
+I am a results-driven Data Analyst with strong expertise in uncovering actionable patterns from large datasets and delivering high-impact analytics solutions. Proficient in Python, SQL, and Power BI, I specialize in building end-to-end data pipelines, predictive models, and interactive dashboards that drive informed decision-making across business domains.
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Expertise
 
-- **Languages & Tools**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL  
-- **Visualization**: Power BI (DAX, Power Query), Excel (Advanced Analytics & Reporting)  
-- **Machine Learning**: Predictive Modeling, Classification, Model Evaluation  
-- **Core Strengths**: Exploratory Data Analysis, Feature Engineering, Customer Segmentation, Business Intelligence Reporting  
+- **Programming & Analytics**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (Advanced Querying, Window Functions, Aggregations)
+- **Business Intelligence**: Power BI (DAX, Power Query, Interactive Dashboards), Excel (Advanced Analytics & MIS Reporting)
+- **Machine Learning**: Predictive Modeling, Logistic Regression, Classification Models, Model Evaluation & Interpretation
+- **Core Competencies**: Exploratory Data Analysis, Feature Engineering, Customer Segmentation, Statistical Analysis, Data Visualization
 
 ---
 
 ### 📊 Featured Projects
 
 - **[Advanced Bank Term Deposit Analysis](https://github.com/divyypratap/advanced-bank-term-deposit-analysis)**  
-  End-to-end EDA and Logistic Regression modeling on 41k+ records to predict term deposit subscriptions and identify key customer drivers.
+  Comprehensive EDA and Logistic Regression modeling on 41k+ banking records to predict term deposit subscriptions and identify high-value customer segments.
 
 - **[Bank Marketing Campaign Insights](https://github.com/divyypratap/bank-marketing-campaign-insights)**  
-  Deep analysis of customer behavior and marketing effectiveness using Python.
-
-- **[Retail Analytics Dashboard](https://github.com/divyypratap/retail-sql-analytics-project)**  
-  SQL-based analysis with an interactive Power BI dashboard for revenue and customer insights.
+  In-depth behavioral analysis and campaign effectiveness evaluation using Python to optimize marketing strategies.
 
 - **[Colorectal Cancer Survival Prediction](https://github.com/divyypratap/colorectal-cancer-survival-prediction)**  
-  Machine Learning model on 90k+ patient records for healthcare outcome prediction.
+  Machine Learning classification model developed on 90k+ patient records for survival outcome prediction in healthcare.
+
+- **[Retail Analytics Dashboard](https://github.com/divyypratap/retail-sql-analytics-project)**  
+  End-to-end SQL analysis with interactive Power BI dashboard delivering revenue trends and customer insights.
 
 ---
 
+### 🎓 Education & Certifications
+
+- **B.Tech – Petroleum Engineering**  
+     (2021) – First Division
+
+- **Certifications**:
+  - SQL (Advanced) – HackerRank
+  - Python (Basic) – HackerRank
+
+---
 
 ### 📫 Let's Connect
 
@@ -39,7 +49,4 @@ I’m a curious and detail-oriented Data Analyst who loves exploring datasets, u
 
 ---
 
-Always open to interesting data problems and collaboration opportunities.
-
-
-
+Open to challenging opportunities where data-driven strategies can create real business impact.
