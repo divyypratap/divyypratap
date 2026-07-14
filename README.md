@@ -44,7 +44,6 @@ I am a results-driven Data Analyst with strong expertise in uncovering actionabl
 
 ### 📫 Let's Connect
 
-- **LinkedIn**: [Divyy Pratap](https://www.linkedin.com/in/divyy-pratap/)
 - **Email**: divyy.pratap1@gmail.com
 
 ---
