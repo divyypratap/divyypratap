@@ -6,7 +6,7 @@ I build end-to-end analytics solutions that drive business decisions. Specialize
 
 ---
 
-## 🎯 Core Competencies
+## 🎯 Core Competencies  
 
 **Data Analysis & Engineering**
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
